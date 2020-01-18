@@ -27,4 +27,13 @@ const App = () => {
 };
 ```
 
-## 
+## import 이용 css 추가 가능
+jsx is not html but like html looking syntex `className`
+> js
+```js
+<ul className=''>
+```
+> to html
+```html
+<ul class=''>
+```
